@@ -1,0 +1,20 @@
+{
+  "name": "cypress-05-reporting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress-mochawesome-reporter": "^3.5.0",
+    "mochawesome": "^7.1.3"
+  }
+}
